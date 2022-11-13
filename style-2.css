@@ -1,0 +1,4 @@
+/* Sélecteur peusdo-classe */
+ul :nth-child(2) {
+  background-color: blue;
+}

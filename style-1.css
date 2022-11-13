@@ -1,0 +1,7 @@
+/* Sélecteur hiérarchique */
+ul > li + li {
+  background-color: blue;
+}
+ul > li + li + li {
+  background-color: white;
+}
